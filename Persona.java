@@ -1,5 +1,5 @@
 /**
- * CLASE ABSTRACTA: Persona.
+ * CLASE ABSTRACTA: Persona. explicacion.
  * Una clase abstracta es una plantilla que no se puede instanciar directamente;
  * sirve como base para otras clases (por ejemplo, Empleado) y puede obligar
  * a las clases hijas a implementar ciertos métodos.
