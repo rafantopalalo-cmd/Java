@@ -1,7 +1,7 @@
 import java.time.LocalTime;
 
 /**
- * CLASE: Empleado.
+ * CLASE: Empleado
  * HERENCIA: extends Persona indica que Empleado hereda nombre, documento,
  * teléfono y mostrarInformacion() de su clase padre.
  * COMPOSICIÓN: el Empleado crea y es dueño de su Horario (new Horario dentro
